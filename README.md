@@ -184,5 +184,5 @@ A pure function is a function that doesn't depend on and doesn't modify the stat
 #### What don't you like about react?
 .....
 
-#### Explain one of your React project
+#### Explain one of your react project
 .....
